@@ -11,12 +11,12 @@ Welcome to the official GitHub account of **Dog Finger Studios**! We are a a cre
 Unity horror survival game set on a haunted island.
 Windows, macOS, Linux
 
-### [saintaveline-intent-model](https://github.com/DogFingerStudios/saintaveline-intent-model) 🌍
+### [saintaveline-intent-model](https://github.com/DogFingerStudios/saintaveline-intent-model) 📦
 
 Intent model for NPC interactions in Saint Aveline game.  
 Python, ONNX
 
-### [Yanorra](https://github.com/DogFingerStudios/yanorra) 📦
+### [Yanorra](https://github.com/DogFingerStudios/yanorra) 🌍
 
 Yanorra is the fictional world where our stories unfold.
 AsciiDoc, Markdown
