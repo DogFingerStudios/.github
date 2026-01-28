@@ -1,5 +1,7 @@
 # Dog Finger Studios 🐶👈
 
+![Dog Finger Studios Logo](dog.png)
+
 Welcome to the official GitHub account of **Dog Finger Studios**! We are a a creative studio focused on storytelling and game development. We specialize in crafting immersive narratives and engaging gameplay experiences. 
 
 🌐 [Visit our website](https://dogfinger.com/)
