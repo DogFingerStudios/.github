@@ -8,22 +8,22 @@ Welcome to the official GitHub account of **Dog Finger Studios**! We are a a cre
 
 ### [saintaveline](https://github.com/DogFingerStudios/saintaveline) 🖥️
 
-Unity horror survival game set on a haunted island.
-Windows, macOS, Linux
+A survival narrative game set during a the siege of a remote island where players guide a family patriarch through moral dilemmas and scarce resources to evacuate the island of Saint Aveline.
+<br/>**Tags:** Unity 🎮 | C# 💻 | Python 🐍
 
 ### [saintaveline-intent-model](https://github.com/DogFingerStudios/saintaveline-intent-model) 📦
 
-Intent model for NPC interactions in Saint Aveline game.  
-Python, ONNX
+Intent model for NPC interactions in Saint Aveline game.
+<br/>**Tags:** Python 🐍 | Machine Learning 🤖
 
-### [Yanorra](https://github.com/DogFingerStudios/yanorra) 🌍
+### [ttvg](https://github.com/DogFingerStudios/yanorra) 🌍
 
-Yanorra is the fictional world where our stories unfold.
-AsciiDoc, Markdown
+A comedic adventure game following Tommy Tucson through absurd situations in Tucson as he builds a rock-selling empire while battling gangs and internet trolls.
+<br/>**Tags:** C++ 🌐 | SMFL 📖
 
 ## About Us
 
-Chief Architect [Addy](https://github.com/zethon) 🏗 | Chief Project Manager [Matthew](https://github.com/matthewvale) 📽 | Story Architect [Not Sure](https://github.com/NotSure2505) 📖
+**Chief Architect** [Addy](https://github.com/zethon) 🏗 | **Chief Project Manager** [Matthew](https://github.com/matthewvale) 📽 | **Story Architect** [Not Sure](https://github.com/NotSure2505) 📖
 
 We are committed to providing immersive storytelling experiences through our games and projects. 
 
