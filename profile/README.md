@@ -1,14 +1,30 @@
-# Dog Finder Studios
+# Dog Finger Studios 🐶👈
 
-Dog Finger Studios is a creative studio focused on storytelling and game development. Based in Paramaribo, Suriname, we specialize in crafting immersive narratives and engaging gameplay experiences. 
+Welcome to the official GitHub account of **Dog Finger Studios**! We are a a creative studio focused on storytelling and game development. We specialize in crafting immersive narratives and engaging gameplay experiences. 
 
-Dog Finger Studios is the brainchild of Kavin Jerome Hoffman, a passionate storyteller and game developer dedicated to bringing unique stories to life through interactive media.
+🌐 [Visit our website](https://dogfinger.com/)
 
-## Cheif Architect
-[Addy](https://github.com/zethon)
+## Pinned Repositories 📌
 
-## Chief Project Manager 
-[Matthew](https://github.com/matthewvale)
+### [saintaveline](https://github.com/DogFingerStudios/saintaveline) 🖥️
 
-## Story Architect
-[Not Sure](https://github.com/NotSure2505)
+Unity horror survival game set on a haunted island.
+Windows, macOS, Linux
+
+### [saintaveline-intent-model](https://github.com/DogFingerStudios/saintaveline-intent-model) 🌍
+
+Intent model for NPC interactions in Saint Aveline game.  
+Python, ONNX
+
+### [Yanorra](https://github.com/DogFingerStudios/yanorra) 📦
+
+Yanorra is the fictional world where our stories unfold.
+AsciiDoc, Markdown
+
+## About Us
+
+Chief Architect [Addy](https://github.com/zethon) 🏗 | Chief Project Manager [Matthew](https://github.com/matthewvale) 📽 | Story Architect [Not Sure](https://github.com/NotSure2505) 📖
+
+We are committed to providing immersive storytelling experiences through our games and projects. 
+
+Follow us to stay updated on new releases and features!
